@@ -1,0 +1,1 @@
+# Uygulamal-yapay-sinir-a-lar-f2

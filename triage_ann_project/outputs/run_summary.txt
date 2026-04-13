@@ -1,0 +1,20 @@
+Project run completed successfully.
+Best model by Macro F1: MLP
+
+Metrics summary:
+         Model  Accuracy  Precision_macro  Recall_macro  F1_macro
+           MLP      0.86         0.544434      0.588470  0.561874
+ DecisionStump      0.82         0.526515      0.458333  0.468944
+Perceptron_OVR      0.77         0.452893      0.435502  0.438815
+           KNN      0.73         0.402547      0.389269  0.386186
+    GaussianNB      0.43         0.564250      0.534627  0.308360
+
+Demo Patient Input:
+- Yas: 67
+- Nabiz: 112
+- Ates: 38.4
+- Sistolik_Tansiyon: 95
+- Oksijen_Saturasyonu: 91.0
+- Solunum_Sayisi: 24
+- Sikayet: NefesDarligi
+Predicted Triage Level (MLP): 3
